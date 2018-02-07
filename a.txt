@@ -1,3 +1,10 @@
 yichen is a handsome man
+<<<<<<< HEAD
 yichen is a nice man
 yichen is a handsome man
+=======
+
+yichen is a nice man
+
+your are a good man
+>>>>>>> dev
